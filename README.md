@@ -1,4 +1,4 @@
-# MindMingle for iOS
+# MindMingle for iOS 📱🧠
 
 ## Project Description
 
@@ -10,6 +10,7 @@ Players can personalize their gaming experience by selecting difficulty levels a
 
 ### "Mingle Cards" Gameplay
 This memory game requires players to match pairs of cards by tapping to reveal images. Players can customize the grid size to adjust the level of difficulty. The game also includes a scoring system to track progress and imposes time limits based on the chosen difficulty level, adding intensity to the cognitive workout.
+
 
 ### Tutorial
 New players can access a comprehensive tutorial that guides them through the game's mechanics and rules. It's a great way to get started for those who are new to MindMingle.
@@ -25,6 +26,9 @@ MindMingle offers sound settings that allow players to:
 - Customizable grid sizes for "Mingle Cards" to fit player preferences.
 - Integrated scoring system for performance tracking.
 - Timed gameplay to enhance the competitive aspect of cognitive training.
+
+## Custom UI Design
+MindMingle features a custom-made user interface designed in Figma, with a focus on creating a challenging yet nature-loving and serene environment. The UI aims to provide a visually pleasing and calming experience for players as they engage in cognitive exercises with "Mingle Cards."
 
 ## Installation and Running on Simulator
 To run MindMingle on the Xcode simulator:
